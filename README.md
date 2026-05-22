@@ -493,8 +493,4 @@ Bhavika Pandya
 B.Tech Data Science and Artificial Intelligence  
 Indian Institute of Technology Guwahati
 
-GitHub:
-[Your GitHub Link]
 
-LinkedIn:
-[Your LinkedIn Link]
