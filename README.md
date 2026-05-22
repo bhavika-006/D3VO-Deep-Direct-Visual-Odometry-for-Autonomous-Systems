@@ -390,25 +390,6 @@ outputs/project_dashboard.png
 
 ---
 
-## Results
-
-Example:
-
-| Metric | Baseline VO | Uncertainty-aware VO |
-|----------|-------------|---------------------|
-| ATE | 1.87 | 1.42 |
-| RPE | 0.73 | 0.58 |
-
-Improvement:
-
-```text
-ATE Improvement = 24%
-```
-
-(Note: Values shown above are sample values and depend on dataset and experimental conditions.)
-
----
-
 ## Challenges Faced
 
 - Monocular scale ambiguity
