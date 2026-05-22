@@ -48,10 +48,10 @@ This project is inspired by:
 
 Authors:
 
-- Yang Wang
-- Weihao Yuan
-- Xianhui Pan
-- Cewu Lu
+- Nan Yang
+- Lukas von Stumberg
+- Daniel Cremers
+- Rui Wang
 
 Conference:
 
